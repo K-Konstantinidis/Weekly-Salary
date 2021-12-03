@@ -1,7 +1,7 @@
 # Weekly-Salary
 This is a C project, to find the weekly salary of your employees.
 
-This is a very simle project. At 1st you insert the code of the employee. If it is bigger than 1000, they will have an annual salary, else you will have to 
+This is a very simple project. At 1st you insert the code of the employee. If it is bigger than 1000, they will have an annual salary, else you will have to 
 insert the payment per hour. 
 
 After that: 
