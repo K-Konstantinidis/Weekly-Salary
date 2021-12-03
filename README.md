@@ -8,4 +8,4 @@ After that:
 1) If the code was >= 1000, the weekly payment will appear on your screen.
 2) If it was <1000, you will have to insert the weekly hours of work and afterwards the weekly payment will appear on your screen.
 
-In this project, the "genlib.h" & "simpio.h" from roberts libraries are beeing used.
+In this project, the "genlib.h" & "simpio.h" from roberts libraries have been used.
